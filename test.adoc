@@ -14,12 +14,10 @@ puts "Hello, World!"
 . testing
 .. asdasdsd
 . asdasdasd
-
 [source]
 asdasdasdasd
 asd
 asdasdasd
 asdasdasd
-
 . asdasdasd
 . asdasdasd
